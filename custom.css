@@ -17,10 +17,10 @@ limitations under the License.
 :root {
    /* Modify these to change your theme colors: */
    --primary: #780096;
-   --text: #06f;
-   --background: #111;
-   --background-elevated: #222;
-   --icon: #717274;
+   --text: #780096;
+   --background: #780096;
+   --background-elevated: #780096;
+   --icon: #780096;
 
    /* These should be less important: */
    --background-hover: rgba(255, 255, 255, 0.1);
