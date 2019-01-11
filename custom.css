@@ -24,16 +24,16 @@ limitations under the License.
 
    /* These should be less important: */
    --background-hover: rgba(255, 255, 255, 0.1);
-   --background-light: #AAA;
-   --background-bright: #FFF;
+   --background-light: #780096;
+   --background-bright: #780096;
 
-   --border-dim: #666;
+   --border-dim: #780096;
    --border-bright: var(--primary);
 
-   --text-bright: #FFF;
+   --text-bright: #780096;
    --text-special: var(--primary);
 
-   --scrollbar-background: #000;
+   --scrollbar-background: #780096;
    --scrollbar-border: var(--primary);
 }
 
